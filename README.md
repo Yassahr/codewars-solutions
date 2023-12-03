@@ -3,7 +3,7 @@ This is a repository of my codewars solutions. Solutions are pushed on a daily b
 
 https://github.com/Yassahr/codewars-solutions
 
-alt tag
+
 
 How It's Made:
 Tech Used: JavaScript
