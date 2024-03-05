@@ -1,20 +1,20 @@
 
 <!-- Name -->
-#Codewars
+<h1 align="center"><a href="https://github.com/Yassahr/codewars-solutions">Codewar Solutions</a></h1> 
 <image src="#">
 <!-- Description -->
-###This is a repository of my codewars solutions. Solutions are pushed on a regular cadance
+<h3 align="left">This is a repository of my codewars solutions. Solutions are pushed on a regular cadance</h3>
 <!-- Tech Used -->
 </p>
-##Languages and Tools:
+<h2 align="left" display="inline">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 <!-- Optimizations -->
-##Optimizations:
+<h2 align="left">Optimizations:</h3>
 <p>As I continue to code and rank up with my kata solutions, my code with continue to get more eloquent and  effiencnt.</p>
 <!-- Lessons Learned -->
-##Lessons Learned:
+<h2 align="left">Lessons Learned:</h3>
 <p>Learning and growing is continuous, I enjoy seeing creative ways of implementing common conventions</p>
 
 
