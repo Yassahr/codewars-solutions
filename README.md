@@ -1,26 +1,16 @@
-<!-- Codeware Solutions
-This is a repository of my codewars solutions. Solutions are pushed on a daily basis
 
-https://github.com/Yassahr/codewars-solutions
+<!-- Name -->
+<h1 align="center"><a href="https://github.com/Yassahr/codewars-solutions">Codewar Solutions</a></h1> 
+<image src="#">
+<!-- Description -->
+<h3 align="left">This is a repository of my codewars solutions. Solutions are pushed on a regular cadance</h3>
+<!-- Optimizations -->
+<h3 align="left">Optimizations:</h3>
+<p>As I continue to code and rank up with my kata solutions, my code with continue to get more eloquent and  effiencnt.</p>
+<!-- Lessons Learned -->
+<h3 align="left">Lessons Learned:</h3>
+<p>Learning and growing is continuous, I enjoy seeing creative ways of implementing common conventions</p>
 
-
-
-How It's Made:
-Tech Used: JavaScript
-
-Codewars is an opportunity to not only level up but to also practice diversity of thought. There are multiple levels:
-1) The to actually solve the problem and ability to problem solve and experiment
-2) Researching how others solved the problem 
-
-
-
-
-
-Lessons Learned:
-Learning and growing is continuous, I enjoy seeing creative ways of implementing common conventions. -->
-
-<h1 align="center">Hi 👋, I'm Yassah</h1>
-<h3 align="center">A passionate fullstack engineer with</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
