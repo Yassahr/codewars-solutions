@@ -1,24 +1,24 @@
 
 <!-- Name -->
-<h1 align="center"><a href="https://github.com/Yassahr/codewars-solutions">Codewar Solutions</a></h1> 
+#Codewars
 <image src="#">
 <!-- Description -->
-<h3 align="left">This is a repository of my codewars solutions. Solutions are pushed on a regular cadance</h3>
+###This is a repository of my codewars solutions. Solutions are pushed on a regular cadance
 <!-- Tech Used -->
 </p>
-<h3 align="left" display="inline">Languages and Tools:</h3>
+##Languages and Tools:
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 <!-- Optimizations -->
-<h3 align="left">Optimizations:</h3>
+##Optimizations:
 <p>As I continue to code and rank up with my kata solutions, my code with continue to get more eloquent and  effiencnt.</p>
 <!-- Lessons Learned -->
-<h3 align="left">Lessons Learned:</h3>
+##Lessons Learned:
 <p>Learning and growing is continuous, I enjoy seeing creative ways of implementing common conventions</p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yassah16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassah16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/yassahreed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yassahreed" height="30" width="40" /></a>
