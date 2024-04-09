@@ -1,7 +1,7 @@
 
 <!-- Name -->
 <h1 align="center"><a href="https://github.com/Yassahr/codewars-solutions">Codewar Solutions</a></h1> 
-<image src="#">
+<image src="/Users/yassahreed/portfolio-support/codewars-solutions/img/Screenshot 2024-03-10 at 4.40.08 PM.png">
 <!-- Description -->
 <h3 align="left">This is a repository of my codewars solutions. Solutions are pushed on a regular cadance</h3>
 <!-- Tech Used -->
